@@ -146,4 +146,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Aman Patel - [@LinkedinHandle](https://www.google.com/search?q=https://linkedin.com/in/amanpatel2529) - amanpatel.ajp@gmail.com
 
-Project Link: [https://github.com/your\Amanpatel2529/LMS-Backend](https://www.google.com/search?q=https://github.com/Amanpatel2529/LMS-Backend)
+Project Link: [https://github.com/Amanpatel2529/LMS-Backend](https://www.google.com/search?q=https://github.com/Amanpatel2529/LMS-Backend)
